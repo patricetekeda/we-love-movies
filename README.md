@@ -4,7 +4,7 @@ This project is from [Thinkful](https://www.thinkful.com/bootcamp/web-developmen
 
 ## Live Demo
 
-[WeLoveMovies](https://morning-plateau-47546.herokuapp.com/)
+https://starter-movie-front-end-kohl.vercel.app/
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ Fork the project
 Clone the project
 
 ```bash
-  git clone https://github.com/jordanbmowry/we-love-movies.git
+  git clone https://github.com/patricetekeda/we-love-movies
 ```
 
 Go to the project directory
